@@ -1,0 +1,10 @@
+name: hebbff
+dependencies:
+  - python 
+  - numpy 
+  - scipy
+  - matplotlib
+  - seaborn
+  - pytorch
+  - tqdm
+  - anaconda::ipykernel
